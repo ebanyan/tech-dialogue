@@ -3,12 +3,14 @@ module.exports = {
     title: `Tech Dialogue`,
     author: {
       name: `Satish Krishnaraj`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      summary: `who lives and works in Austin exploring defi, crypto,
+      blockchain technologies and protocols
+      .`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `TechDialogue1`,
     },
   },
   plugins: [
